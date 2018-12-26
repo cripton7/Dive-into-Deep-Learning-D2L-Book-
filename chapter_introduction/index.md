@@ -12,6 +12,7 @@ learning is and how to use this book.
 
    preface
    deep-learning-intro
+   introduction-long
    how-to-use
 
 ```
